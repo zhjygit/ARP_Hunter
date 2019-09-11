@@ -1,0 +1,9 @@
+﻿  Uic'ing ARP_Hunter.ui...
+  Rcc'ing ARP_Hunter.qrc...
+  Moc'ing ARP_Hunter.h...
+   RCC: Warning: No resources in 'C:\Users\perdragon\source\repos\ARP_Hunter\ARP_Hunter\ARP_Hunter.qrc'.
+  ARP_Hunter.cpp
+  main.cpp
+  qrc_ARP_Hunter.cpp
+  moc_ARP_Hunter.cpp
+  ARP_Hunter.vcxproj -> C:\Users\perdragon\source\repos\ARP_Hunter\Win32\Release\ARP_Hunter.exe
